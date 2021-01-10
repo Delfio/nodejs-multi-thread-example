@@ -1,0 +1,11 @@
+{
+  "name": "threds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run:example01": "node ./fibonacci"
+  },
+  "author": "Delfio Francisco",
+  "license": "GPL-3.0"
+}
