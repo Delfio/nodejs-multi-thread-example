@@ -1,6 +1,6 @@
 # Anotações
 
-## Chield Process - processos filho7
+## Chield Process - processos filho
 
 * IO
 
